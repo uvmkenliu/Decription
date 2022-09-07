@@ -1,4 +1,5 @@
 # Decryption
+# Author(s): Rohit Nawani and Ken Liu
 This is a python script that decrypts mono-substitution cipher.
 
 This was our first coding project and hence, it was written poorly but does the job. 
